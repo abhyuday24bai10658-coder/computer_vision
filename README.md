@@ -130,3 +130,5 @@ CONFIDENCE_THRESHOLD = 0.55  # Lower = stricter matching (default: 0.55)
 Created as a BYOP (Build Your Own Project) submission.  
 Course: Computer Vision  
 Platform: VITyarthi
+Name : Abhyuday Shukla
+Registration number: 24BAI10658
